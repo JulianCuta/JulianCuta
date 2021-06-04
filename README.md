@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- I am currently in eleventh grade.
+- I am studying at the Diocesan Seminary School of Duitama.
+- I'm still learning how to use Git and Github.
+- You can contact me by e-mail: julian.perezc@colseminario.edu.co
 <!--
 **JulianCuta/JulianCuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
